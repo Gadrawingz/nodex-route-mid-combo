@@ -1,0 +1,29 @@
+{
+  "name": "route-mid-combo",
+  "version": "1.0.0",
+  "description": "This project is designed to learn and master routing requests and fundamental middleware concepts in Node.js and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gadrawingz/nodex-route-mid-combo.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "routing",
+    "middleware"
+  ],
+  "author": "Gad Iradufasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gadrawingz/nodex-route-mid-combo/issues"
+  },
+  "homepage": "https://github.com/Gadrawingz/nodex-route-mid-combo#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
