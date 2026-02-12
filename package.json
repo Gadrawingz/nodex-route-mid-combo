@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/Gadrawingz/nodex-route-mid-combo#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.22.0"
   }
 }
